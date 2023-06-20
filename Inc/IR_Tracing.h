@@ -20,7 +20,7 @@
 #define COMM_LEFT  			'C'//×ó×ª
 #define COMM_RIGHT 			'D'//ÓÒ×ª
 
-void TracingRun(void);
+void TracingRun(int speed);
 
 #endif
 
